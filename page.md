@@ -1,6 +1,7 @@
-# Home page(https://til026.github.io/315DB/home.html)
-## [Lab Report 1 Week 2](https://www.ugrad.cs.jhu.edu/~tli121/name.html)
-## [Lab Report 2 Week 4](https://til026.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
-## [Lab Report 3 Week 6](https://til026.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
-## [Lab Report 4 Week 8](https://til026.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
-## [Lab Report 5 Week 10](https://til026.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+# Home page
+## [Get Company's Name](https://www.ugrad.cs.jhu.edu/~tli121/name.html)
+## [Get Price Detail](https://www.ugrad.cs.jhu.edu/~tli121/price_day.html)
+## [Price Change Info](https://www.ugrad.cs.jhu.edu/~tli121/price_change.html)
+## [Price Movement Similarity](https://www.ugrad.cs.jhu.edu/~tli121/movement.html)
+## [Momentum Prediction](https://www.ugrad.cs.jhu.edu/~tli121/momentum.html)
+## [President's Influence](https://www.ugrad.cs.jhu.edu/~tli121/president.html)
