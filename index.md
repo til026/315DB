@@ -8,3 +8,4 @@ Welcome to the Stock Insights Dashboard! Explore various tools and resources to 
 ### [Price Movement Similarity](https://www.ugrad.cs.jhu.edu/~tli121/movement.html)
 ### [Momentum Prediction](https://www.ugrad.cs.jhu.edu/~tli121/momentum.html)
 ### [President's Influence](https://www.ugrad.cs.jhu.edu/~tli121/president.html)
+### [Power of Sentiment](https://www.ugrad.cs.jhu.edu/~tli121/sentiment.html)
