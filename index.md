@@ -1,5 +1,5 @@
 # 📊 Stock Insights Dashboard
-Welcome to the Stock Insights Dashboard! Explore various tools and resources to analyze financial data and provide financial information.
+Welcome to the Stock Insights Dashboard! Explore various tools and resources to extract financial information and gain valuable financial insights!.
 ---
 ## 🔗 **Quick Links**
 ### [Get Company's Name](https://www.ugrad.cs.jhu.edu/~tli121/name.html)
