@@ -9,3 +9,4 @@ Welcome to the Stock Insights Dashboard! Explore various tools and resources to 
 ### [Momentum Prediction](https://www.ugrad.cs.jhu.edu/~tli121/momentum.html)
 ### [President's Influence](https://www.ugrad.cs.jhu.edu/~tli121/president.html)
 ### [Power of Sentiment](https://www.ugrad.cs.jhu.edu/~tli121/sentiment.html)
+### [Check Your Portfolio](https://www.ugrad.cs.jhu.edu/~tli121/profit.html)
